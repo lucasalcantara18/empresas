@@ -1,0 +1,24 @@
+#item-description .div-background-white{
+    background: #F0F0F5;
+ }
+ 
+ #item-description .div-background-green{
+     background: #7dc075;
+  }
+  #item-description .details{
+     font-family: Roboto;
+     color: black;
+     font-size: 20px;
+     font-weight: 500;
+     text-align: justify;
+  }
+  #item-description .div-padding-details{
+     padding: 30px;
+     padding-left: 50px;
+     padding-right: 50px;
+  }
+ 
+  #item-description .img-padding-details{
+     padding: 20px;
+   
+  }

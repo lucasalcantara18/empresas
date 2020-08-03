@@ -1,0 +1,149 @@
+#description-page .container-fluid{
+    padding: 0 !important;
+}
+
+#description-page .bg-primary{
+    background: linear-gradient(180deg, #ee4c77, #c4365b) !important;
+}
+
+#description-page .logo-nav-position{
+    margin-top: 2px;
+}
+
+#description-page .search-icon-position{
+    margin-top: 6px;
+}
+
+#description-page .search-icon-position-hide{
+    margin-top: 6px;
+    display: none;
+}
+
+
+#description-page .form-fill-available{
+    width: -webkit-fill-available;
+    height: 40px;
+}
+
+#description-page .element-fill-available{
+    width: -webkit-fill-available;
+}
+
+#description-page .select-width{
+    width: 145px;
+}
+
+#description-page .element-hide{
+    display: none;
+}
+
+#description-page .inner-addon { 
+    position: relative; 
+}
+  
+#description-page .icon{
+    width: 40px;
+}
+
+#description-page .icon-close{
+    width: 40px;
+}
+
+#description-page .inner-addon .icon {
+    position: absolute;
+    padding: 6px;
+    pointer-events: none;
+}
+
+#description-page .inner-addon .icon-close {
+    position: absolute;
+    padding: 6px;
+    /* pointer-events: none; */
+}
+  
+/* align icon */
+#description-page .left-addon .icon  { left:  -5px;}
+#description-page .right-addon .icon { right: 0px;}
+#description-page .right-addon .icon-close { right: 0px;}
+
+/* add padding  */
+#description-page .left-addon input  { padding-left:  30px; }
+#description-page .right-addon input { padding-right: 30px; }
+
+#description-page .form-control {
+    outline: 0 !important;
+    background-color: #ee4c77 !important;
+}
+  
+  
+#description-page .form-control:focus {
+    background-color: #ee4c77 !important;
+}
+
+#description-page .spinner-on{
+    position: absolute;
+    left: 47vw;
+    top: 20vw;
+  }
+  
+  #description-page .spinner-off{
+    position: absolute;
+    left: 47vw;
+    top: 20vw;
+    display: none;
+  }
+  
+  #description-page .fade-on{
+    opacity: 0.4;
+    pointer-events: none;
+  }
+  
+  #description-page .fade-off{
+    opacity: 1;
+  }
+  
+  #description-page .spinner-border{
+    width: 7rem !important;
+    height: 7rem !important;
+  }
+
+
+
+#description-page .title{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 3px;
+ }
+
+ #description-page .business{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: 3px;
+ }
+
+ #description-page .location{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: 3px;
+ }
+
+ #description-page .nav-title{
+    font-family: Roboto;
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+ }
+
+ #description-page .arrow-position{
+    margin-top: 8px;
+ }
+
+
+

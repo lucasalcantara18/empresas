@@ -1,0 +1,144 @@
+#home-page .container-fluid{
+    padding: 0 !important;
+}
+
+#home-page .bg-primary{
+    background: linear-gradient(180deg, #ee4c77, #c4365b) !important;
+}
+
+#home-page .logo-nav-position{
+    margin-top: 2px;
+}
+
+#home-page .search-icon-position{
+    margin-top: 6px;
+}
+
+#home-page .search-icon-position-hide{
+    margin-top: 6px;
+    display: none;
+}
+
+
+#home-page .form-fill-available{
+    width: -webkit-fill-available;
+    height: 40px;
+}
+
+#home-page .element-fill-available{
+    width: -webkit-fill-available;
+}
+
+#home-page .select-width{
+    width: 145px;
+}
+
+#home-page .element-hide{
+    display: none;
+}
+
+#home-page .inner-addon { 
+    position: relative; 
+}
+  
+#home-page .icon{
+    width: 40px;
+}
+
+#home-page .icon-close{
+    width: 40px;
+}
+
+#home-page .inner-addon .icon {
+    position: absolute;
+    padding: 6px;
+    pointer-events: none;
+}
+
+#home-page .inner-addon .icon-close {
+    position: absolute;
+    padding: 6px;
+    /* pointer-events: none; */
+}
+  
+/* align icon */
+#home-page .left-addon .icon  { left:  -5px;}
+#home-page .right-addon .icon { right: 0px;}
+#home-page .right-addon .icon-close { right: 0px;}
+
+/* add padding  */
+#home-page .left-addon input  { padding-left:  30px; }
+#home-page .right-addon input { padding-right: 30px; }
+
+#home-page .form-control {
+    outline: 0 !important;
+    background-color: #ee4c77 !important;
+}
+  
+  
+#home-page .form-control:focus {
+    background-color: #ee4c77 !important;
+}
+
+#home-page .spinner-on{
+    position: absolute;
+    left: 47vw;
+    top: 20vw;
+  }
+  
+  #home-page .spinner-off{
+    position: absolute;
+    left: 47vw;
+    top: 20vw;
+    display: none;
+  }
+  
+  #home-page .fade-on{
+    opacity: 0.4;
+    pointer-events: none;
+  }
+  
+  #home-page .fade-off{
+    opacity: 1;
+  }
+  
+  #home-page .spinner-border{
+    width: 7rem !important;
+    height: 7rem !important;
+  }
+
+  #home-page .text{
+    font-family: Roboto;
+    color: #b5b4b4;
+    font-size: 21px;
+    font-weight: 600;
+    text-align: center;
+ }
+
+/* #home-page .div-background{
+   background: #F0F0F5;
+}
+
+#home-page .title{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 3px;
+ }
+
+ #home-page .business{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: 3px;
+ }
+
+ #home-page .location{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: 3px;
+ } */
